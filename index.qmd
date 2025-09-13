@@ -1,9 +1,11 @@
 ---
-title: "MDS Quarto Site"
+title: "My Data Science Portfolio"
 ---
 
-Here is the default quearto website template.
+## Welcome to my Website!
 
-This is a Quarto website.
+Hi! My name is Rabin, and this is my personal website. As a student in the Master of Data Science program, I'm excited to share my journey and projects here.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am particularly passionate about applying data science and analytics to the sports industry, using data to uncover new insights and improve performance.
+
+Feel free to look around and learn more about my work!
