@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "MDS Quarto Site"
+  title: "Rabin — Data Science"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rabindranath-duran-pons-1682591ab/
+        text: LinkedIn
 
 format:
   html:

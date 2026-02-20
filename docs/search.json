@@ -4,20 +4,34 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "About this site\nHello, my name is Rabin."
+    "text": "Hi, I’m Rabin. I help turn data and backend systems into reliable, production-ready solutions: ML models (especially in sports), live trading analytics, data pipelines, and financial insights.\nI care about building things that actually work in production: modular architectures, clear data flows, and analytics that support real decisions. With a mix of software development (Python, R, SQL) and statistical/risk analysis from my time in fintech and now a Master of Data Science at UBC, I like bridging clean engineering with data-driven outcomes.\nMy background includes a Master of Data Science (expected 2026) from the University of British Columbia and a Bachelor’s in Actuarial Science from the National Autonomous University of Mexico, plus 4+ years building backend services and doing data transformation and risk analytics. That’s given me a solid footing in both systems and stats.\nWhat I Work On:\n\nData transformation & analytics — Turning large datasets into clear insights, dashboards, and reports\nMachine learning — From feature engineering and model selection to evaluation and interpretation in real-world contexts\nBackend & data pipelines — Building and maintaining production services and pipelines that power analytics and reporting\nAutomation & tooling — Scripts, packages, and workflows that make repetitive tasks reliable and repeatable\nEvidence-driven decisions — Using data, testing, and clear metrics to guide what we build and how we improve\n\nAlways happy to connect and chat about data, ML, backend systems, or sports."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Data Science Portfolio",
+    "title": "Rabin",
     "section": "",
-    "text": "Hi! My name is Rabin, and this is my personal website. As a student in the Master of Data Science program, I’m excited to share my journey and projects here.\nI am particularly passionate about applying data science and analytics to the sports industry, using data to uncover new insights and improve performance.\nFeel free to look around and learn more about my work!"
+    "text": "Hi, I’m Rabin. I help turn data and backend systems into reliable, production-ready solutions: ML models (especially in sports), live trading analytics, data pipelines, and financial insights.\nI care about building things that actually work in production: modular architectures, clear data flows, and analytics that support real decisions. With a mix of software development (Python, R, SQL) and statistical/risk analysis from my time in fintech and now a Master of Data Science at UBC, I like bridging clean engineering with data-driven outcomes.\nMy background includes a Master of Data Science (expected 2026) from the University of British Columbia and a Bachelor’s in Actuarial Science from the National Autonomous University of Mexico, plus 4+ years building backend services and doing data transformation and risk analytics. That’s given me a solid footing in both systems and stats.\nWhat I Work On:\n\nData transformation & analytics — Turning large datasets into clear insights, dashboards, and reports\nMachine learning — From feature engineering and model selection to evaluation and interpretation in real-world contexts\nBackend & data pipelines — Building and maintaining production services and pipelines that power analytics and reporting\nAutomation & tooling — Scripts, packages, and workflows that make repetitive tasks reliable and repeatable\nEvidence-driven decisions — Using data, testing, and clear metrics to guide what we build and how we improve\n\nAlways happy to connect and chat about data, ML, backend systems, or sports."
   },
   {
-    "objectID": "index.html#welcome-to-my-website",
-    "href": "index.html#welcome-to-my-website",
-    "title": "My Data Science Portfolio",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Rabin",
     "section": "",
-    "text": "Hi! My name is Rabin, and this is my personal website. As a student in the Master of Data Science program, I’m excited to share my journey and projects here.\nI am particularly passionate about applying data science and analytics to the sports industry, using data to uncover new insights and improve performance.\nFeel free to look around and learn more about my work!"
+    "text": "Hi, I’m Rabin. I help turn data and backend systems into reliable, production-ready solutions: ML models (especially in sports), live trading analytics, data pipelines, and financial insights.\nI care about building things that actually work in production: modular architectures, clear data flows, and analytics that support real decisions. With a mix of software development (Python, R, SQL) and statistical/risk analysis from my time in fintech and now a Master of Data Science at UBC, I like bridging clean engineering with data-driven outcomes.\nMy background includes a Master of Data Science (expected 2026) from the University of British Columbia and a Bachelor’s in Actuarial Science from the National Autonomous University of Mexico, plus 4+ years building backend services and doing data transformation and risk analytics. That’s given me a solid footing in both systems and stats.\nWhat I Work On:\n\nData transformation & analytics — Turning large datasets into clear insights, dashboards, and reports\nMachine learning — From feature engineering and model selection to evaluation and interpretation in real-world contexts\nBackend & data pipelines — Building and maintaining production services and pipelines that power analytics and reporting\nAutomation & tooling — Scripts, packages, and workflows that make repetitive tasks reliable and repeatable\nEvidence-driven decisions — Using data, testing, and clear metrics to guide what we build and how we improve\n\nAlways happy to connect and chat about data, ML, backend systems, or sports."
+  },
+  {
+    "objectID": "index.html#tech-stack",
+    "href": "index.html#tech-stack",
+    "title": "Rabin",
+    "section": "Tech Stack",
+    "text": "Tech Stack"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Rabin",
+    "section": "Projects",
+    "text": "Projects\n\n\nProject title\nShort description of what the project does, what you built, and what you learned. You can add a link to the repo or a live demo.\nPython · SQL · Scikit-learn\n\n\nAnother project\nAnother short description. Focus on the problem, your approach, and the outcome.\nR · Pandas · Shiny\n\n\nThird project\nReplace these placeholders with your real projects. Add as many cards as you like.\nPyTorch · Docker · GCP"
   }
 ]

@@ -1,1 +1,66 @@
-/* css styles */
+/* Tech stack badges: wrap nicely with spacing */
+.tech-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+.tech-badges a {
+  display: inline-block;
+  line-height: 0;
+}
+
+.tech-badges img {
+  height: 28px;
+  display: block;
+}
+
+/* Project cards grid */
+.project-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1rem;
+}
+
+.project-card {
+  padding: 1.25rem;
+  border: 1px solid var(--bs-border-color, #dee2e6);
+  border-radius: 8px;
+  background: var(--bs-body-bg, #fff);
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-color: var(--bs-primary, #0d6efd);
+}
+
+.project-card strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 1.05rem;
+}
+
+.project-card p:last-child,
+.project-card em {
+  font-size: 0.9rem;
+  color: var(--bs-secondary-color, #6c757d);
+  margin-top: 0.5rem;
+  font-style: normal;
+}
+
+/* Section spacing */
+h2 {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--bs-border-color-translucent, rgba(0, 0, 0, 0.1));
+}
+
+h2:first-of-type {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
