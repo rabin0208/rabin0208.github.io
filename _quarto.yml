@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Rabin — Data Science"
+  title: "Rabin — Data Scientist / Machine Learning Engineer"
   navbar:
     left:
       - href: index.qmd
